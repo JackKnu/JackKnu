@@ -3,9 +3,9 @@
 ### Education
 - Master of Computer Science (Artificial Intelligence) - University of Colorado Boulder
 - Graduate Certificate in Artificial Intelligence - University of Colorado Boulder 
-- Bachelor of Advanced Computer Science (Honours) (Algorithms and Computing) (Thesis: Quantum Machine Learning) - Griffith University
+- Bachelor of Advanced Computer Science (Honours) (Algorithms and Computing) - Griffith University
 - Bachelor of Advanced Computer Science (Double Major: Algorithms and Computing, Data Science and Artificial Intelligence) - Griffith University
-- Bachelor of Science (Mathematics) (Research Thesis: Quantum Algorithms) - University of New England
+- Bachelor of Science (Mathematics) - University of New England
 
 <!--
 **JackQuantum/JackQuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
