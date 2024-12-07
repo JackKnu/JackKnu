@@ -9,3 +9,6 @@
 - Bachelor of Advanced Computer Science (Honours) (Language AI) - Griffith University
 - Bachelor of Advanced Computer Science (Double Major: Algorithms and Computing, Data Science and Artificial Intelligence) - Griffith University
 - Bachelor of Psychological Science (Neuroscience) - University of New England
+
+### Certifications
+- Certified TensorFlow Developer
