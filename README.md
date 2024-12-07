@@ -1,5 +1,7 @@
 ## Jack Palmer | NLP Researcher @ avamaya
 
+### Creator of naomi.ai 🧠
+
 ### Education
 - Master of Computer Science (Artificial Intelligence) (Natural Language Processing, Generative AI, Machine Learning) - University of Colorado Boulder
 - Graduate Certificate in Artificial Intelligence (Natural Language Processing) - University of Colorado Boulder 
