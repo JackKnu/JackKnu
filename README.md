@@ -1,4 +1,4 @@
-## Jack Palmer | NLP Researcher @ avamaya
+## Jack Palmer | Founder & Chief NLP Scientist @ avamaya
 
 ### Creator of naomi.ai 🧠
 
