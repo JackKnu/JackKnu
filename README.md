@@ -1,4 +1,4 @@
-## Founder & Deep Learning Research Scientist @ Knu
+## Founder & Research Scientist @ Knu
 
 ### Education
 - Bachelor of Advanced Computer Science (Honours) (Algorithms) - Griffith University
