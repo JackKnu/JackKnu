@@ -1,4 +1,4 @@
-## Jack Palmer | Founder & Theoretical Computer Scientist @ Knu
+## Founder & Deep Learning Research Scientist @ Knu
 
 ### Education
 - Bachelor of Advanced Computer Science (Honours) (Algorithms and Artificial Intelligence) - Griffith University
