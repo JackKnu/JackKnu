@@ -1,3 +1,4 @@
+## Jack Palmer | Quantum Algorithm Research Scientist
 
 ### Education
 - Bachelor of Advanced Science (Honours) (Physics) (Quantum Computing Algorithms) - Griffith University
